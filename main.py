@@ -1,4 +1,4 @@
-# dionysus (deme-app-310119)
+# dionysus
 
 from flask import Flask
 
